@@ -2,7 +2,7 @@
 #
 # Pete Prodoehl <pete@2xlnetworks.com>
 # 
-# Rezies images to 1280x960
+# Resizes images to 1280x960
 # Assuming 4032x3024 images as source
 # (Which is the size of photos from my phone...)
 #
